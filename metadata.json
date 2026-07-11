@@ -1,0 +1,6 @@
+{
+  "name": "BinVest",
+  "description": "A secure, comprehensive guide for beginners in the Nepali Share Market (NEPSE). Features candlestick chart analysis via Gemini AI, 8 educational features, multi-language support (including Nepali), robust multi-factor security locks, and remote administrator approval.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Trendline Path representing stock indices -->
+    <path
+        android:pathData="M 20 75 L 45 50 L 65 60 L 90 30"
+        android:strokeColor="#10B981"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    
+    <!-- Candlestick indicators -->
+    <path
+        android:pathData="M 30 70 L 30 55"
+        android:strokeColor="#EF4444"
+        android:strokeWidth="2" />
+    <path
+        android:pathData="M 26 58 L 34 58 L 34 68 L 26 68 Z"
+        android:fillColor="#EF4444" />
+
+    <!-- Center golden lock graphic representation -->
+    <path
+        android:pathData="M 44 48 L 64 48 L 64 68 L 44 68 Z"
+        android:fillColor="#F59E0B" />
+    <path
+        android:pathData="M 48 48 L 48 41 C 48 35, 60 35, 60 41 L 60 48"
+        android:strokeColor="#F59E0B"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000" />
+    <!-- Lock keyhole -->
+    <path
+        android:pathData="M 54 54 A 2 2 0 1 0 54 58 L 54 62"
+        android:strokeColor="#0F172A"
+        android:strokeWidth="2"
+        android:strokeLineCap="round" />
+</vector>
